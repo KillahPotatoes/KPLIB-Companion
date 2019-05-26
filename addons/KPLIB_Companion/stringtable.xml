@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="KPLIB Companion">
+    <!-- English and German localization by Wyqer: https://github.com/Wyqer | Updated: 2019-05-12 -->
+    <Package name="Config and Settings">
+        <Key ID="STR_KPR_CONFIG_MODULEDESC1">
+            <English>If this module is placed in the mission it'll create a dependency to this mod inside the mission.</English>
+            <German>Wenn dieses Modul gesetzt wird, wird eine Abhängigkeit zur Mod erzeugt.</German>
+        </Key>
+    </Package>
+</Project>

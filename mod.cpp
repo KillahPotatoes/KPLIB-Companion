@@ -1,0 +1,12 @@
+name = "KP Liberation Companion 1.0.0";
+picture = "\KPLIB_Companion\kplib-companion_ca.paa";
+actionName = "GitHub";
+action = "https://github.com/KillahPotatoes/KP-Ranks";
+description = "KP Liberation Companion - Version 1.0.0";
+logo = "\KPLIB_Companion\kplogo_ca.paa";
+logoOver = "\KPLIB_Companion\kplogo_ca.paa";
+tooltip = "KP Liberation Companion";
+tooltipOwned = "KP Liberation Companion Owned";
+overview = "The Companion Mod for the KP Liberation Framework. It provides Zeus modules for various functionalities of KP Liberation, so you don't need to fiddle around with the Debug Console anymore.";
+author = "KP Liberation Dev Team";
+overviewPicture = "\KPLIB_Companion\kplib-companion_ca.paa";

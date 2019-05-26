@@ -1,0 +1,13 @@
+version: 2
+jobs:
+  validate:
+    docker:
+      - image: circleci/python
+    steps:
+      - checkout
+      - run:
+          name: Install SQFLint
+          command: sudo pip install sqflint
+      - run:
+          name: Validate SQF
+          command: sqflint -d addons/KPLIB_Companion
