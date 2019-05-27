@@ -1,7 +1,7 @@
 name = "KP Liberation Companion 1.0.0";
 picture = "\KPLIB_Companion\kplib-companion_ca.paa";
 actionName = "GitHub";
-action = "https://github.com/KillahPotatoes/KP-Ranks";
+action = "https://github.com/KillahPotatoes/KPLIB-Companion";
 description = "KP Liberation Companion - Version 1.0.0";
 logo = "\KPLIB_Companion\kplogo_ca.paa";
 logoOver = "\KPLIB_Companion\kplogo_ca.paa";
