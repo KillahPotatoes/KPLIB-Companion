@@ -53,14 +53,14 @@ class CfgVehicles {
     };
     class KPLIB_ModuleCrateAmmo: KPLIB_ModuleResources {
         displayName = "Spawn Crate: Ammo";
-        function = "KPLIB_fnc_companion_ammoCrate";
+        function = "KPLIB_fnc_companion_crateAmmo";
     };
     class KPLIB_ModuleCrateFuel: KPLIB_ModuleResources {
         displayName = "Spawn Crate: Fuel";
-        function = "KPLIB_fnc_companion_fuelCrate";
+        function = "KPLIB_fnc_companion_crateFuel";
     };
     class KPLIB_ModuleCrateSupply: KPLIB_ModuleResources {
         displayName = "Spawn Crate: Supplies";
-        function = "KPLIB_fnc_companion_supplyCrate";
+        function = "KPLIB_fnc_companion_crateSupply";
     };
 };
